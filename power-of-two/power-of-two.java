@@ -1,0 +1,18 @@
+// LeetCode: Power of Two (power-of-two)
+// Submission ID: 1587810372
+// Language: java
+// Timestamp (UTC): 2025-03-27T06:53:15Z
+
+class Solution {
+    public boolean isPowerOfTwo(int n) {
+        if(n<=0) return false;
+        if(n == 1) return true;
+        while(n!=0){
+            if( n!=1 && n%2!=0) return false;
+            n/=2;
+
+        }
+
+        return true;
+    }
+}
