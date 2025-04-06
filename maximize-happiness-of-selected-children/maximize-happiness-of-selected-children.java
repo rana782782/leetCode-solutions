@@ -1,29 +1,6 @@
-// LeetCode: Maximize Happiness of Selected Children (maximize-happiness-of-selected-children)
-// Submission ID: 1598876701
-// Language: java
-// Timestamp (UTC): 2025-04-06T19:36:04Z
+# Placeholder for Maximize Happiness of Selected Children (maximize-happiness-of-selected-children)
 
-class Solution {
-    public long maximumHappinessSum(int[] happiness, int k) {
-        long output = 0;
-        int count = 0;
-
-        Arrays.sort(happiness);
-
-        int i = happiness.length-1;
-
-        while(k!=0){
-            if(happiness[i]-count>0){
-                output+=happiness[i]-count;
-                count++;
-            }
-            else{
-                break;
-            }
-            k--;
-            i--;
-        }
-
-        return output;
-    }
-}
+- **Submission ID:** 1598876701
+- **Original solve time (UTC):** 2025-04-06T19:36:03Z
+- **Note:** LeetCode API did not return code for this submission.
+  This placeholder ensures a backdated commit for your contribution graph.
