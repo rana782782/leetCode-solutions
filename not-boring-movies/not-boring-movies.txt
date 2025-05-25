@@ -1,0 +1,10 @@
+// LeetCode: Not Boring Movies (not-boring-movies)
+// Submission ID: 1644142226
+// Language: mysql
+// Timestamp (UTC): 2025-05-25T14:41:44Z
+
+# Write your MySQL query statement below
+select *
+from Cinema
+where MOD(id,2) = 1 and  description != 'boring'
+order by rating desc;
