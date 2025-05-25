@@ -1,0 +1,10 @@
+// LeetCode: Product Sales Analysis I (product-sales-analysis-i)
+// Submission ID: 1644117264
+// Language: mysql
+// Timestamp (UTC): 2025-05-25T14:10:14Z
+
+# Write your MySQL query statement below
+select p.product_name, s.year,s.price
+from Sales as s
+inner join Product as p
+on s.product_id = p.product_id; 
