@@ -1,0 +1,10 @@
+// LeetCode: Replace Employee ID With The Unique Identifier (replace-employee-id-with-the-unique-identifier)
+// Submission ID: 1644113170
+// Language: mysql
+// Timestamp (UTC): 2025-05-25T14:04:45Z
+
+# Write your MySQL query statement below
+select eui.unique_id,e.name
+from Employees as e
+left join EmployeeUNI as eui
+on e.id = eui.id;
