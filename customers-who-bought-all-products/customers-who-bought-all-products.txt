@@ -1,0 +1,10 @@
+// LeetCode: Customers Who Bought All Products (customers-who-bought-all-products)
+// Submission ID: 1645071015
+// Language: mysql
+// Timestamp (UTC): 2025-05-26T14:47:03Z
+
+# Write your MySQL query statement below
+select customer_id
+from Customer
+group by customer_id
+having count(distinct product_key) = (select count(product_key) from Product);
