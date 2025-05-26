@@ -1,0 +1,9 @@
+// LeetCode: Find Customers With Positive Revenue this Year (find-customers-with-positive-revenue-this-year)
+// Submission ID: 1645357804
+// Language: mysql
+// Timestamp (UTC): 2025-05-26T20:11:58Z
+
+select customer_id
+from Customers 
+where revenue>0 and year = 2021;
+
