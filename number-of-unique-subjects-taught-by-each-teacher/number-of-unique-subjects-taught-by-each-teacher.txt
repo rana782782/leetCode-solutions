@@ -1,0 +1,9 @@
+// LeetCode: Number of Unique Subjects Taught by Each Teacher (number-of-unique-subjects-taught-by-each-teacher)
+// Submission ID: 1645039561
+// Language: mysql
+// Timestamp (UTC): 2025-05-26T14:09:58Z
+
+# Write your MySQL query statement below
+select teacher_id,count(distinct subject_id) as cnt
+from Teacher
+group by teacher_id;
