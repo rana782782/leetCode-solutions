@@ -1,0 +1,10 @@
+// LeetCode: Find Followers Count (find-followers-count)
+// Submission ID: 1645051034
+// Language: mysql
+// Timestamp (UTC): 2025-05-26T14:23:37Z
+
+select user_id,count(distinct follower_id) as followers_count
+from Followers
+group by user_id
+order by user_id;
+
