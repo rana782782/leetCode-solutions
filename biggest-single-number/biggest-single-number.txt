@@ -1,0 +1,14 @@
+// LeetCode: Biggest Single Number (biggest-single-number)
+// Submission ID: 1645060592
+// Language: mysql
+// Timestamp (UTC): 2025-05-26T14:34:46Z
+
+# Write your MySQL query statement below
+select if(count(*) = 1,num,null) as num
+from MyNumbers
+group by num
+order by num desc
+limit 1;
+
+
+
