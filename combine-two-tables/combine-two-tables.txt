@@ -1,0 +1,10 @@
+// LeetCode: Combine Two Tables (combine-two-tables)
+// Submission ID: 1645372940
+// Language: mysql
+// Timestamp (UTC): 2025-05-26T20:36:51Z
+
+# Write your MySQL query statement below
+select P.firstName,P.lastName,AD.city,AD.state
+from Person as P
+left join Address as AD
+on P.personId = AD.personId;
