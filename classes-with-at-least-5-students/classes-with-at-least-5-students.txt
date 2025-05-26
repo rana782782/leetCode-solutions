@@ -1,0 +1,11 @@
+// LeetCode: Classes With at Least 5 Students (classes-with-at-least-5-students)
+// Submission ID: 1645044208
+// Language: mysql
+// Timestamp (UTC): 2025-05-26T14:15:29Z
+
+select class
+from Courses
+group by class
+having count(*)>=5;
+
+
