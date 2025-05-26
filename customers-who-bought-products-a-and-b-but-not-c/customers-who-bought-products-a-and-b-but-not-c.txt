@@ -1,0 +1,15 @@
+// LeetCode: Customers Who Bought Products A and B but Not C (customers-who-bought-products-a-and-b-but-not-c)
+// Submission ID: 1645358131
+// Language: mysql
+// Timestamp (UTC): 2025-05-26T20:12:29Z
+
+# Write your MySQL query statement below
+select C.customer_id,C.customer_name
+from Customers as C
+inner join Orders as O
+on C.customer_id = O.customer_id
+group by C.customer_id
+having sum(product_name = 'A')>0 and sum(product_name = 'B')>0 and sum(product_name = 'C') = 0
+order by C.customer_id;
+
+
