@@ -1,0 +1,8 @@
+// LeetCode: Rising Temperature (rising-temperature)
+// Submission ID: 1644942610
+// Language: mysql
+// Timestamp (UTC): 2025-05-26T12:02:48Z
+
+select w1.id
+from Weather as w1, Weather as w2
+where DateDiff(w1.recordDate,w2.recordDate) = 1 and w1.temperature>w2.temperature;
