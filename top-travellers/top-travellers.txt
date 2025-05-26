@@ -1,0 +1,12 @@
+// LeetCode: Top Travellers (top-travellers)
+// Submission ID: 1645403251
+// Language: mysql
+// Timestamp (UTC): 2025-05-26T21:34:50Z
+
+# Write your MySQL query statement below
+SELECT u.name , Ifnull(SUM(r.distance),0) AS travelled_distance 
+FROM Users u
+Left JOIN Rides r
+ON u.id = r.user_id 
+GROUP BY u.id
+ORDER BY sum(r.distance) desc , name;
