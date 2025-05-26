@@ -1,0 +1,9 @@
+// LeetCode: Customer Who Visited but Did Not Make Any Transactions (customer-who-visited-but-did-not-make-any-transactions)
+// Submission ID: 1644936058
+// Language: mysql
+// Timestamp (UTC): 2025-05-26T11:53:49Z
+
+select customer_id,count(*) as count_no_trans
+from Visits as v
+where visit_id not in (select visit_id from Transactions)
+group by customer_id;
