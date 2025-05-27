@@ -1,0 +1,12 @@
+// LeetCode: Friendly Movies Streamed Last Month (friendly-movies-streamed-last-month)
+// Submission ID: 1646224396
+// Language: mysql
+// Timestamp (UTC): 2025-05-27T16:51:04Z
+
+# Write your MySQL query statement below
+select C.title
+from TVProgram T
+inner join Content C
+on T.content_id= C.content_id
+where C.content_type = 'Movies' and C.Kids_content = 'Y' and year(T.program_date)= 2020 and month(T.program_date) = 6
+group by C.title
