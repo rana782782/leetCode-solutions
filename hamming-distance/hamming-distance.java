@@ -1,18 +1,6 @@
-// LeetCode: Hamming Distance (hamming-distance)
-// Submission ID: 1653698029
-// Language: java
-// Timestamp (UTC): 2025-06-04T12:28:45Z
+# Placeholder for Hamming Distance (hamming-distance)
 
-class Solution {
-  public int hammingDistance(int x, int y) {
-        int xor = x ^ y;
-        int count = 0;
-        
-        while (xor != 0) {
-            count += xor & 1; 
-            xor >>= 1;        
-        }
-        
-        return count;
-    }
-}
+- **Submission ID:** 1653698029
+- **Original solve time (UTC):** 2025-06-04T12:28:45Z
+- **Note:** LeetCode API did not return code for this submission.
+  This placeholder ensures a backdated commit for your contribution graph.
