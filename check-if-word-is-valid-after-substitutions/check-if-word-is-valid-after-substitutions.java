@@ -1,31 +1,6 @@
-// LeetCode: Check If Word Is Valid After Substitutions (check-if-word-is-valid-after-substitutions)
-// Submission ID: 1732432573
-// Language: java
-// Timestamp (UTC): 2025-08-12T12:47:24Z
+# Placeholder for Check If Word Is Valid After Substitutions (check-if-word-is-valid-after-substitutions)
 
-class Solution {
-    public boolean isValid(String s) {
-        Stack<Character>st = new Stack<>();
-
-
-        for(char ch : s.toCharArray()){
-            if(ch == 'c'){
-           int count = 2;
-           int temp = 'b';
-           while(!st.isEmpty() && count!=0 && st.peek() == temp){
-                st.pop();
-                count--;
-                temp = 'a';
-           } 
-           if(count!=0)return false;
-            }
-                else{
-                    st.push(ch);
-                }
-            }
-
-            return st.size() == 0 ? true : false;
-        }
-
-
-    }
+- **Submission ID:** 1732432573
+- **Original solve time (UTC):** 2025-08-12T12:47:23Z
+- **Note:** LeetCode API did not return code for this submission.
+  This placeholder ensures a backdated commit for your contribution graph.
