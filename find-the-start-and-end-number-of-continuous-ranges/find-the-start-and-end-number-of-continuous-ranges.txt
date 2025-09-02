@@ -1,0 +1,15 @@
+// LeetCode: Find the Start and End Number of Continuous Ranges (find-the-start-and-end-number-of-continuous-ranges)
+// Submission ID: 1756762075
+// Language: mysql
+// Timestamp (UTC): 2025-09-02T07:37:34Z
+
+# Write your MySQL query statement below
+select min(log_id) as start_id,
+max(log_id)as end_id
+from(
+    select log_id, 
+    log_id-rank()over(order by log_id) as grp
+    from Logs
+) a
+group by grp
+order by start_id
