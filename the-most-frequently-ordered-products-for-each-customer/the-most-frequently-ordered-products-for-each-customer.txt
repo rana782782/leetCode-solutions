@@ -1,0 +1,25 @@
+// LeetCode: The Most Frequently Ordered Products for Each Customer (the-most-frequently-ordered-products-for-each-customer)
+// Submission ID: 1756929712
+// Language: mysql
+// Timestamp (UTC): 2025-09-02T10:54:33Z
+
+# Write your MySQL query statement below
+WITH RankedOrders AS (
+  SELECT
+    o.customer_id,
+    o.product_id,
+    p.product_name,
+    RANK() OVER (
+      PARTITION BY o.customer_id
+      ORDER BY COUNT(*) DESC
+    ) AS rk
+  FROM Orders o
+  JOIN Products p ON o.product_id = p.product_id
+  GROUP BY o.customer_id, o.product_id
+)
+SELECT
+  customer_id,
+  product_id,
+  product_name
+FROM RankedOrders
+WHERE rk = 1;
