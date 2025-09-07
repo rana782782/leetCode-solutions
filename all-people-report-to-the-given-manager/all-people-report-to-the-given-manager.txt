@@ -1,0 +1,11 @@
+// LeetCode: All People Report to the Given Manager (all-people-report-to-the-given-manager)
+// Submission ID: 1762371946
+// Language: mysql
+// Timestamp (UTC): 2025-09-07T07:09:43Z
+
+# Write your MySQL query statement below
+select e1.employee_id
+from Employees e1
+left join Employees e2 on e1.manager_id=e2.employee_id
+left join Employees e3 on e2.manager_id=e3.employee_id
+where e3.manager_id=1 and e1.employee_id !=1
