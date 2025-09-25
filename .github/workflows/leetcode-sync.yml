@@ -1,0 +1,49 @@
+name: LeetCode Sync (backdated & credited to you)
+
+on:
+  workflow_dispatch: {}   # run manually
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository (allow pushing)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # This sets the committer identity to YOU (not the bot)
+      - name: Configure git user to your identity
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ secrets.MY_GH_EMAIL }}"
+
+      - name: Run backdated sync (authored & committed as YOU)
+        env:
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          AUTHOR_NAME: ${{ github.actor }}
+          AUTHOR_EMAIL: ${{ secrets.MY_GH_EMAIL }}   # verified email of your new account
+          FORCE_RECOMMIT: "1"                        # first run: backfill heatmap
+          REPO_PATH: ${{ github.workspace }}
+          BRANCH: main
+        run: |
+          python leetcode_sync.py
+
+      # Debug: show last commits with author+date so you can verify right in logs
+      - name: Show last 25 commits (debug)
+        run: |
+          git --no-pager log -n 25 --pretty=format:"%h | %an <%ae> | %ad | %s"
