@@ -1,7 +1,7 @@
-name: LeetCode Sync (backdated & credited to you)
+name: LeetCode Sync (backdated with placeholders)
 
 on:
-  workflow_dispatch: {}   # run manually
+  workflow_dispatch: {}   # run manually from the Actions tab
 
 permissions:
   contents: write
@@ -10,7 +10,7 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository (allow pushing)
+      - name: Checkout repository (with full history, allow push)
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -26,24 +26,25 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      # This sets the committer identity to YOU (not the bot)
+      # 👇 Important: committer = YOU (not the bot)
       - name: Configure git user to your identity
         run: |
           git config user.name "${{ github.actor }}"
           git config user.email "${{ secrets.MY_GH_EMAIL }}"
 
-      - name: Run backdated sync (authored & committed as YOU)
+      - name: Run LeetCode backdated sync
         env:
           LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
           AUTHOR_NAME: ${{ github.actor }}
-          AUTHOR_EMAIL: ${{ secrets.MY_GH_EMAIL }}   # verified email of your new account
-          FORCE_RECOMMIT: "1"                        # first run: backfill heatmap
+          AUTHOR_EMAIL: ${{ secrets.MY_GH_EMAIL }}   # must be your verified GitHub email
+          FORCE_RECOMMIT: "1"                        # first run: backfill everything
+          PLACEHOLDER_ON_MISSING: "1"                # enable placeholders for missing code
+          PLACEHOLDER_EXT: "md"                      # placeholder file extension
           REPO_PATH: ${{ github.workspace }}
           BRANCH: main
         run: |
           python leetcode_sync.py
 
-      # Debug: show last commits with author+date so you can verify right in logs
       - name: Show last 25 commits (debug)
         run: |
           git --no-pager log -n 25 --pretty=format:"%h | %an <%ae> | %ad | %s"
