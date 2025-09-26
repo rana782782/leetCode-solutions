@@ -1,26 +1,16 @@
-name: Update README on Push (LeetCode)
+name: Update README (LeetCode)
 
 on:
   workflow_dispatch: {}
-  push:
-    branches: [ main, master ]
-    paths:
-      - "README.md"
-      - "scripts/update_readme.py"
-      - ".github/workflows/update-readme.yml"
-      - ".github/workflows/update-readme-on-push.yml"
-      - "**/*.java"
-      - "**/*.py"
-      - "**/*.cpp"
+  schedule:
+    - cron: '15 0 * * *' # daily 00:15 UTC (~05:45 IST)
+
+permissions:
+  contents: write
 
 jobs:
   update:
-    # Avoid loops: skip if the actor is the bot OR the commit is the auto-update
-    if: github.actor != 'github-actions[bot]' && !contains(github.event.head_commit.message, 'auto-update LeetCode stats')
     runs-on: ubuntu-latest
-    concurrency:
-      group: readme-update-on-push
-      cancel-in-progress: true
     steps:
       - name: Checkout
         uses: actions/checkout@v4
