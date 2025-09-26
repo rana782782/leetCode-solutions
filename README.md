@@ -18,7 +18,14 @@
 ## 📊 Live LeetCode Stats
 
 <!--LEETCODE_STATS_START-->
-Fetching latest stats...
+**User:** `rana_782`
+
+- ✅ **Solved:** 1046 (Easy 380 · Med 588 · Hard 78)
+- 🏆 **Global Rank:** 20504
+- 📈 **Contest Rating:** 1570.13  ·  **Contests:** 2
+- 🎖️ **Badges:** Annual Badge, Annual Badge, Annual Badge, Annual Badge
+
+_Last updated: 26 Sep 2025, 10:28 AM IST_
 <!--LEETCODE_STATS_END-->
 
 ---
