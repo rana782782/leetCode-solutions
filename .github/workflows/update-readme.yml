@@ -1,20 +1,26 @@
-
----
-
-## 2) `.github/workflows/update-readme.yml`
-Create this file to auto-refresh the stats daily:
-
-```yaml
-name: Update README (LeetCode)
+name: Update README on Push (LeetCode)
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "15 0 * * *"   # daily 00:15 UTC (~05:45 IST)
+  workflow_dispatch: {}
+  push:
+    branches: [ main, master ]
+    paths:
+      - "README.md"
+      - "scripts/update_readme.py"
+      - ".github/workflows/update-readme.yml"
+      - ".github/workflows/update-readme-on-push.yml"
+      - "**/*.java"
+      - "**/*.py"
+      - "**/*.cpp"
 
 jobs:
   update:
+    # Avoid loops: skip if the actor is the bot OR the commit is the auto-update
+    if: github.actor != 'github-actions[bot]' && !contains(github.event.head_commit.message, 'auto-update LeetCode stats')
     runs-on: ubuntu-latest
+    concurrency:
+      group: readme-update-on-push
+      cancel-in-progress: true
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -22,7 +28,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Install deps
         run: |
