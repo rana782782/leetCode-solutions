@@ -1,9 +1,16 @@
+
+---
+
+## 2) `.github/workflows/update-readme.yml`
+Create this file to auto-refresh the stats daily:
+
+```yaml
 name: Update README (LeetCode)
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 0 * * *"   # daily at 00:15 UTC (~05:45 IST)
+    - cron: "15 0 * * *"   # daily 00:15 UTC (~05:45 IST)
 
 jobs:
   update:
