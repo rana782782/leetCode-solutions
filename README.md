@@ -64,4 +64,12 @@ _Last updated: 27 Sep 2025, 07:25 AM IST_
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/rana782782/leeCode-solutions/tree/master/0830-largest-triangle-area) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/rana782782/leeCode-solutions/tree/master/0115-distinct-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/rana782782/leeCode-solutions/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
