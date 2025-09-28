@@ -20,12 +20,12 @@
 <!--LEETCODE_STATS_START-->
 **User:** `rana_782`
 
-- ✅ **Solved:** 1046 (Easy 380 · Med 588 · Hard 78)
-- 🏆 **Global Rank:** 20457
+- ✅ **Solved:** 1050 (Easy 381 · Med 590 · Hard 79)
+- 🏆 **Global Rank:** 20407
 - 📈 **Contest Rating:** 1570.13  ·  **Contests:** 2
 - 🎖️ **Badges:** Annual Badge, Annual Badge, Annual Badge, Annual Badge
 
-_Last updated: 27 Sep 2025, 07:25 AM IST_
+_Last updated: 28 Sep 2025, 07:45 AM IST_
 <!--LEETCODE_STATS_END-->
 
 ---
