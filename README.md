@@ -40,6 +40,7 @@ _Last updated: 05 Oct 2025, 07:44 AM IST_
 | ------- |
 | [0611-valid-triangle-number](https://github.com/rana782782/leeCode-solutions/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/rana782782/leeCode-solutions/tree/master/0830-largest-triangle-area) |
+| [1166-toss-strange-coins](https://github.com/rana782782/leeCode-solutions/tree/master/1166-toss-strange-coins) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1287-distance-between-bus-stops](https://github.com/rana782782/leeCode-solutions/tree/master/1287-distance-between-bus-stops) |
 ## Two Pointers
@@ -64,6 +65,7 @@ _Last updated: 05 Oct 2025, 07:44 AM IST_
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/rana782782/leeCode-solutions/tree/master/0830-largest-triangle-area) |
+| [1166-toss-strange-coins](https://github.com/rana782782/leeCode-solutions/tree/master/1166-toss-strange-coins) |
 ## Geometry
 |  |
 | ------- |
@@ -77,8 +79,13 @@ _Last updated: 05 Oct 2025, 07:44 AM IST_
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/rana782782/leeCode-solutions/tree/master/0115-distinct-subsequences) |
+| [1166-toss-strange-coins](https://github.com/rana782782/leeCode-solutions/tree/master/1166-toss-strange-coins) |
 ## Hash Table
 |  |
 | ------- |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1166-toss-strange-coins](https://github.com/rana782782/leeCode-solutions/tree/master/1166-toss-strange-coins) |
 <!---LeetCode Topics End-->
