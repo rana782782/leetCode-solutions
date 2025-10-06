@@ -44,6 +44,7 @@ _Last updated: 06 Oct 2025, 07:31 AM IST_
 | [1166-toss-strange-coins](https://github.com/rana782782/leeCode-solutions/tree/master/1166-toss-strange-coins) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1287-distance-between-bus-stops](https://github.com/rana782782/leeCode-solutions/tree/master/1287-distance-between-bus-stops) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/rana782782/leeCode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,10 +69,12 @@ _Last updated: 06 Oct 2025, 07:31 AM IST_
 | ------- |
 | [0830-largest-triangle-area](https://github.com/rana782782/leeCode-solutions/tree/master/0830-largest-triangle-area) |
 | [1166-toss-strange-coins](https://github.com/rana782782/leeCode-solutions/tree/master/1166-toss-strange-coins) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/rana782782/leeCode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Geometry
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/rana782782/leeCode-solutions/tree/master/0830-largest-triangle-area) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/rana782782/leeCode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 ## String
 |  |
 | ------- |
