@@ -45,6 +45,7 @@ _Last updated: 07 Oct 2025, 07:29 AM IST_
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1287-distance-between-bus-stops](https://github.com/rana782782/leeCode-solutions/tree/master/1287-distance-between-bus-stops) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/rana782782/leeCode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
+| [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ _Last updated: 07 Oct 2025, 07:29 AM IST_
 |  |
 | ------- |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -118,4 +120,8 @@ _Last updated: 07 Oct 2025, 07:29 AM IST_
 |  |
 | ------- |
 | [3336-water-bottles-ii](https://github.com/rana782782/leeCode-solutions/tree/master/3336-water-bottles-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 <!---LeetCode Topics End-->
