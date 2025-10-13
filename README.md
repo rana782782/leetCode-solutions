@@ -51,6 +51,7 @@ _Last updated: 13 Oct 2025, 07:42 AM IST_
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rana782782/leeCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/rana782782/leeCode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/rana782782/leeCode-solutions/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1449-print-words-vertically](https://github.com/rana782782/leeCode-solutions/tree/master/1449-print-words-vertically) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 ## Two Pointers
 |  |
@@ -95,6 +96,7 @@ _Last updated: 13 Oct 2025, 07:42 AM IST_
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rana782782/leeCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/rana782782/leeCode-solutions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1449-print-words-vertically](https://github.com/rana782782/leeCode-solutions/tree/master/1449-print-words-vertically) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +140,7 @@ _Last updated: 13 Oct 2025, 07:42 AM IST_
 ## Simulation
 |  |
 | ------- |
+| [1449-print-words-vertically](https://github.com/rana782782/leeCode-solutions/tree/master/1449-print-words-vertically) |
 | [3336-water-bottles-ii](https://github.com/rana782782/leeCode-solutions/tree/master/3336-water-bottles-ii) |
 ## Sliding Window
 |  |
