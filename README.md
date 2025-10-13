@@ -47,6 +47,7 @@ _Last updated: 13 Oct 2025, 07:42 AM IST_
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1287-distance-between-bus-stops](https://github.com/rana782782/leeCode-solutions/tree/master/1287-distance-between-bus-stops) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/rana782782/leeCode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/rana782782/leeCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/rana782782/leeCode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 ## Two Pointers
@@ -70,6 +71,7 @@ _Last updated: 13 Oct 2025, 07:42 AM IST_
 | [0611-valid-triangle-number](https://github.com/rana782782/leeCode-solutions/tree/master/0611-valid-triangle-number) |
 | [1222-remove-covered-intervals](https://github.com/rana782782/leeCode-solutions/tree/master/1222-remove-covered-intervals) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/rana782782/leeCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/rana782782/leeCode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Math
 |  |
@@ -88,6 +90,7 @@ _Last updated: 13 Oct 2025, 07:42 AM IST_
 | ------- |
 | [0115-distinct-subsequences](https://github.com/rana782782/leeCode-solutions/tree/master/0115-distinct-subsequences) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/rana782782/leeCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/rana782782/leeCode-solutions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 ## Dynamic Programming
 |  |
@@ -100,6 +103,7 @@ _Last updated: 13 Oct 2025, 07:42 AM IST_
 |  |
 | ------- |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/rana782782/leeCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 ## Probability and Statistics
 |  |
