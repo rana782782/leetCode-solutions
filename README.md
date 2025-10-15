@@ -85,6 +85,7 @@ _Last updated: 15 Oct 2025, 07:34 AM IST_
 | ------- |
 | [0830-largest-triangle-area](https://github.com/rana782782/leeCode-solutions/tree/master/0830-largest-triangle-area) |
 | [1166-toss-strange-coins](https://github.com/rana782782/leeCode-solutions/tree/master/1166-toss-strange-coins) |
+| [1276-closest-divisors](https://github.com/rana782782/leeCode-solutions/tree/master/1276-closest-divisors) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/rana782782/leeCode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [3336-water-bottles-ii](https://github.com/rana782782/leeCode-solutions/tree/master/3336-water-bottles-ii) |
 ## Geometry
