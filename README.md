@@ -101,6 +101,7 @@ _Last updated: 16 Oct 2025, 07:32 AM IST_
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rana782782/leeCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/rana782782/leeCode-solutions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1449-print-words-vertically](https://github.com/rana782782/leeCode-solutions/tree/master/1449-print-words-vertically) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/rana782782/leeCode-solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 ## Dynamic Programming
 |  |
 | ------- |
