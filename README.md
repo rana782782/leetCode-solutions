@@ -125,11 +125,13 @@ _Last updated: 16 Oct 2025, 07:32 AM IST_
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/rana782782/leeCode-solutions/tree/master/0794-swim-in-rising-water) |
+| [1493-frog-position-after-t-seconds](https://github.com/rana782782/leeCode-solutions/tree/master/1493-frog-position-after-t-seconds) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/rana782782/leeCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/rana782782/leeCode-solutions/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1493-frog-position-after-t-seconds](https://github.com/rana782782/leeCode-solutions/tree/master/1493-frog-position-after-t-seconds) |
 ## Union Find
 |  |
 | ------- |
@@ -157,4 +159,9 @@ _Last updated: 16 Oct 2025, 07:32 AM IST_
 |  |
 | ------- |
 | [1436-get-watched-videos-by-your-friends](https://github.com/rana782782/leeCode-solutions/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1493-frog-position-after-t-seconds](https://github.com/rana782782/leeCode-solutions/tree/master/1493-frog-position-after-t-seconds) |
+## Tree
+|  |
+| ------- |
+| [1493-frog-position-after-t-seconds](https://github.com/rana782782/leeCode-solutions/tree/master/1493-frog-position-after-t-seconds) |
 <!---LeetCode Topics End-->
