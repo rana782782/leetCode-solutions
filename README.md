@@ -53,17 +53,20 @@ _Last updated: 17 Oct 2025, 07:31 AM IST_
 | [1436-get-watched-videos-by-your-friends](https://github.com/rana782782/leeCode-solutions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1449-print-words-vertically](https://github.com/rana782782/leeCode-solutions/tree/master/1449-print-words-vertically) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rana782782/leeCode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/rana782782/leeCode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 ## Two Pointers
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/rana782782/leeCode-solutions/tree/master/0611-valid-triangle-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/rana782782/leeCode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/rana782782/leeCode-solutions/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/rana782782/leeCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/rana782782/leeCode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +83,7 @@ _Last updated: 17 Oct 2025, 07:31 AM IST_
 | [1388-greatest-sum-divisible-by-three](https://github.com/rana782782/leeCode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/rana782782/leeCode-solutions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rana782782/leeCode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/rana782782/leeCode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
