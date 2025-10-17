@@ -46,6 +46,7 @@ _Last updated: 17 Oct 2025, 07:31 AM IST_
 | [1224-minimum-falling-path-sum-ii](https://github.com/rana782782/leeCode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1241-decompress-run-length-encoded-list](https://github.com/rana782782/leeCode-solutions/tree/master/1241-decompress-run-length-encoded-list) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1284-four-divisors](https://github.com/rana782782/leeCode-solutions/tree/master/1284-four-divisors) |
 | [1287-distance-between-bus-stops](https://github.com/rana782782/leeCode-solutions/tree/master/1287-distance-between-bus-stops) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/rana782782/leeCode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rana782782/leeCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -91,6 +92,7 @@ _Last updated: 17 Oct 2025, 07:31 AM IST_
 | [0830-largest-triangle-area](https://github.com/rana782782/leeCode-solutions/tree/master/0830-largest-triangle-area) |
 | [1166-toss-strange-coins](https://github.com/rana782782/leeCode-solutions/tree/master/1166-toss-strange-coins) |
 | [1276-closest-divisors](https://github.com/rana782782/leeCode-solutions/tree/master/1276-closest-divisors) |
+| [1284-four-divisors](https://github.com/rana782782/leeCode-solutions/tree/master/1284-four-divisors) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/rana782782/leeCode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [3336-water-bottles-ii](https://github.com/rana782782/leeCode-solutions/tree/master/3336-water-bottles-ii) |
 ## Geometry
