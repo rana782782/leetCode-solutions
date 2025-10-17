@@ -84,6 +84,7 @@ _Last updated: 17 Oct 2025, 07:31 AM IST_
 | [1436-get-watched-videos-by-your-friends](https://github.com/rana782782/leeCode-solutions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rana782782/leeCode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/rana782782/leeCode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1488-sort-integers-by-the-power-value](https://github.com/rana782782/leeCode-solutions/tree/master/1488-sort-integers-by-the-power-value) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@ _Last updated: 17 Oct 2025, 07:31 AM IST_
 | [1166-toss-strange-coins](https://github.com/rana782782/leeCode-solutions/tree/master/1166-toss-strange-coins) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/rana782782/leeCode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/rana782782/leeCode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1488-sort-integers-by-the-power-value](https://github.com/rana782782/leeCode-solutions/tree/master/1488-sort-integers-by-the-power-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,4 +170,8 @@ _Last updated: 17 Oct 2025, 07:31 AM IST_
 |  |
 | ------- |
 | [1493-frog-position-after-t-seconds](https://github.com/rana782782/leeCode-solutions/tree/master/1493-frog-position-after-t-seconds) |
+## Memoization
+|  |
+| ------- |
+| [1488-sort-integers-by-the-power-value](https://github.com/rana782782/leeCode-solutions/tree/master/1488-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
