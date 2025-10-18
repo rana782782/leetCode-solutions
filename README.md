@@ -74,6 +74,7 @@ _Last updated: 18 Oct 2025, 07:26 AM IST_
 | [0611-valid-triangle-number](https://github.com/rana782782/leeCode-solutions/tree/master/0611-valid-triangle-number) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/rana782782/leeCode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rana782782/leeCode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
+| [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rana782782/leeCode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +95,7 @@ _Last updated: 18 Oct 2025, 07:26 AM IST_
 | [1276-closest-divisors](https://github.com/rana782782/leeCode-solutions/tree/master/1276-closest-divisors) |
 | [1284-four-divisors](https://github.com/rana782782/leeCode-solutions/tree/master/1284-four-divisors) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/rana782782/leeCode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rana782782/leeCode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [3336-water-bottles-ii](https://github.com/rana782782/leeCode-solutions/tree/master/3336-water-bottles-ii) |
 ## Geometry
 |  |
