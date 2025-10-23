@@ -98,6 +98,7 @@ _Last updated: 23 Oct 2025, 07:33 AM IST_
 | [1349-check-if-it-is-a-straight-line](https://github.com/rana782782/leeCode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rana782782/leeCode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [3336-water-bottles-ii](https://github.com/rana782782/leeCode-solutions/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rana782782/leeCode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
 |  |
 | ------- |
@@ -112,6 +113,7 @@ _Last updated: 23 Oct 2025, 07:33 AM IST_
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/rana782782/leeCode-solutions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1449-print-words-vertically](https://github.com/rana782782/leeCode-solutions/tree/master/1449-print-words-vertically) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/rana782782/leeCode-solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rana782782/leeCode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +165,7 @@ _Last updated: 23 Oct 2025, 07:33 AM IST_
 | ------- |
 | [1449-print-words-vertically](https://github.com/rana782782/leeCode-solutions/tree/master/1449-print-words-vertically) |
 | [3336-water-bottles-ii](https://github.com/rana782782/leeCode-solutions/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rana782782/leeCode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -180,4 +183,12 @@ _Last updated: 23 Oct 2025, 07:33 AM IST_
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/rana782782/leeCode-solutions/tree/master/1488-sort-integers-by-the-power-value) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rana782782/leeCode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rana782782/leeCode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
