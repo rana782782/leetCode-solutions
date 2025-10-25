@@ -145,6 +145,7 @@ _Last updated: 25 Oct 2025, 07:31 AM IST_
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/rana782782/leeCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1493-frog-position-after-t-seconds](https://github.com/rana782782/leeCode-solutions/tree/master/1493-frog-position-after-t-seconds) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/rana782782/leeCode-solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -184,6 +185,7 @@ _Last updated: 25 Oct 2025, 07:31 AM IST_
 |  |
 | ------- |
 | [1493-frog-position-after-t-seconds](https://github.com/rana782782/leeCode-solutions/tree/master/1493-frog-position-after-t-seconds) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/rana782782/leeCode-solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -201,4 +203,8 @@ _Last updated: 25 Oct 2025, 07:31 AM IST_
 |  |
 | ------- |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/rana782782/leeCode-solutions/tree/master/1632-number-of-good-ways-to-split-a-string) |
+## Binary Tree
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/rana782782/leeCode-solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 <!---LeetCode Topics End-->
