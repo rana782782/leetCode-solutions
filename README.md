@@ -56,6 +56,7 @@ _Last updated: 25 Oct 2025, 07:31 AM IST_
 | [1464-reduce-array-size-to-the-half](https://github.com/rana782782/leeCode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/rana782782/leeCode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/rana782782/leeCode-solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
+| [1657-find-the-winner-of-an-array-game](https://github.com/rana782782/leeCode-solutions/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 ## Two Pointers
 |  |
@@ -170,6 +171,7 @@ _Last updated: 25 Oct 2025, 07:31 AM IST_
 |  |
 | ------- |
 | [1449-print-words-vertically](https://github.com/rana782782/leeCode-solutions/tree/master/1449-print-words-vertically) |
+| [1657-find-the-winner-of-an-array-game](https://github.com/rana782782/leeCode-solutions/tree/master/1657-find-the-winner-of-an-array-game) |
 | [3336-water-bottles-ii](https://github.com/rana782782/leeCode-solutions/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rana782782/leeCode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
