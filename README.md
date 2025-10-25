@@ -98,6 +98,7 @@ _Last updated: 25 Oct 2025, 07:31 AM IST_
 | [1349-check-if-it-is-a-straight-line](https://github.com/rana782782/leeCode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rana782782/leeCode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1585-the-kth-factor-of-n](https://github.com/rana782782/leeCode-solutions/tree/master/1585-the-kth-factor-of-n) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/rana782782/leeCode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3336-water-bottles-ii](https://github.com/rana782782/leeCode-solutions/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rana782782/leeCode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
