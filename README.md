@@ -128,6 +128,7 @@ _Last updated: 26 Oct 2025, 07:45 AM IST_
 | [1488-sort-integers-by-the-power-value](https://github.com/rana782782/leeCode-solutions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/rana782782/leeCode-solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/rana782782/leeCode-solutions/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/rana782782/leeCode-solutions/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +193,7 @@ _Last updated: 26 Oct 2025, 07:45 AM IST_
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/rana782782/leeCode-solutions/tree/master/1488-sort-integers-by-the-power-value) |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/rana782782/leeCode-solutions/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Combinatorics
 |  |
 | ------- |
