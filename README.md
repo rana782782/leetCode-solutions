@@ -57,6 +57,7 @@ _Last updated: 28 Oct 2025, 07:34 AM IST_
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/rana782782/leeCode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/rana782782/leeCode-solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/rana782782/leeCode-solutions/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/rana782782/leeCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rana782782/leeCode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 ## Two Pointers
@@ -78,6 +79,7 @@ _Last updated: 28 Oct 2025, 07:34 AM IST_
 | [1388-greatest-sum-divisible-by-three](https://github.com/rana782782/leeCode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rana782782/leeCode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rana782782/leeCode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/rana782782/leeCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +121,7 @@ _Last updated: 28 Oct 2025, 07:34 AM IST_
 | [1449-print-words-vertically](https://github.com/rana782782/leeCode-solutions/tree/master/1449-print-words-vertically) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/rana782782/leeCode-solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/rana782782/leeCode-solutions/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/rana782782/leeCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rana782782/leeCode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rana782782/leeCode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
@@ -132,6 +135,7 @@ _Last updated: 28 Oct 2025, 07:34 AM IST_
 | [1569-max-dot-product-of-two-subsequences](https://github.com/rana782782/leeCode-solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/rana782782/leeCode-solutions/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/rana782782/leeCode-solutions/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/rana782782/leeCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Hash Table
 |  |
 | ------- |
