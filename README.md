@@ -58,6 +58,7 @@ _Last updated: 28 Oct 2025, 07:34 AM IST_
 | [1569-max-dot-product-of-two-subsequences](https://github.com/rana782782/leeCode-solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/rana782782/leeCode-solutions/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rana782782/leeCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/rana782782/leeCode-solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rana782782/leeCode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 ## Two Pointers
@@ -175,6 +176,7 @@ _Last updated: 28 Oct 2025, 07:34 AM IST_
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/rana782782/leeCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/rana782782/leeCode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/rana782782/leeCode-solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rana782782/leeCode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Simulation
 |  |
