@@ -25,7 +25,7 @@
 - 📈 **Contest Rating:** 1545.84  ·  **Contests:** 4
 - 🎖️ **Badges:** Annual Badge, Annual Badge, Annual Badge, Annual Badge
 
-_Last updated: 30 Oct 2025, 07:45 AM IST_
+_Last updated: 31 Oct 2025, 07:37 AM IST_
 <!--LEETCODE_STATS_END-->
 
 ---
