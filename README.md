@@ -61,6 +61,7 @@ _Last updated: 04 Nov 2025, 07:38 AM IST_
 | [1704-special-positions-in-a-binary-matrix](https://github.com/rana782782/leeCode-solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rana782782/leeCode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rana782782/leeCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +149,7 @@ _Last updated: 04 Nov 2025, 07:38 AM IST_
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/rana782782/leeCode-solutions/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rana782782/leeCode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rana782782/leeCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -173,6 +175,7 @@ _Last updated: 04 Nov 2025, 07:38 AM IST_
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/rana782782/leeCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rana782782/leeCode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rana782782/leeCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
 |  |
 | ------- |
@@ -191,6 +194,7 @@ _Last updated: 04 Nov 2025, 07:38 AM IST_
 |  |
 | ------- |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rana782782/leeCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Graph
 |  |
 | ------- |
