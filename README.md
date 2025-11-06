@@ -62,6 +62,7 @@ _Last updated: 06 Nov 2025, 07:45 AM IST_
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rana782782/leeCode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rana782782/leeCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/rana782782/leeCode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +151,7 @@ _Last updated: 06 Nov 2025, 07:45 AM IST_
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rana782782/leeCode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rana782782/leeCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/rana782782/leeCode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -160,22 +162,26 @@ _Last updated: 06 Nov 2025, 07:45 AM IST_
 | [0794-swim-in-rising-water](https://github.com/rana782782/leeCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1493-frog-position-after-t-seconds](https://github.com/rana782782/leeCode-solutions/tree/master/1493-frog-position-after-t-seconds) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rana782782/leeCode-solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [3863-power-grid-maintenance](https://github.com/rana782782/leeCode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/rana782782/leeCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/rana782782/leeCode-solutions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1493-frog-position-after-t-seconds](https://github.com/rana782782/leeCode-solutions/tree/master/1493-frog-position-after-t-seconds) |
+| [3863-power-grid-maintenance](https://github.com/rana782782/leeCode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/rana782782/leeCode-solutions/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/rana782782/leeCode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/rana782782/leeCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rana782782/leeCode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rana782782/leeCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/rana782782/leeCode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -200,6 +206,7 @@ _Last updated: 06 Nov 2025, 07:45 AM IST_
 | ------- |
 | [1436-get-watched-videos-by-your-friends](https://github.com/rana782782/leeCode-solutions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1493-frog-position-after-t-seconds](https://github.com/rana782782/leeCode-solutions/tree/master/1493-frog-position-after-t-seconds) |
+| [3863-power-grid-maintenance](https://github.com/rana782782/leeCode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Tree
 |  |
 | ------- |
@@ -231,4 +238,8 @@ _Last updated: 06 Nov 2025, 07:45 AM IST_
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rana782782/leeCode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/rana782782/leeCode-solutions/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
