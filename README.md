@@ -59,6 +59,7 @@ _Last updated: 13 Nov 2025, 07:46 AM IST_
 | [1657-find-the-winner-of-an-array-game](https://github.com/rana782782/leeCode-solutions/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rana782782/leeCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/rana782782/leeCode-solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rana782782/leeCode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rana782782/leeCode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rana782782/leeCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -75,6 +76,7 @@ _Last updated: 13 Nov 2025, 07:46 AM IST_
 | [0794-swim-in-rising-water](https://github.com/rana782782/leeCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/rana782782/leeCode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rana782782/leeCode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +97,7 @@ _Last updated: 13 Nov 2025, 07:46 AM IST_
 | [1464-reduce-array-size-to-the-half](https://github.com/rana782782/leeCode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/rana782782/leeCode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1488-sort-integers-by-the-power-value](https://github.com/rana782782/leeCode-solutions/tree/master/1488-sort-integers-by-the-power-value) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rana782782/leeCode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Math
 |  |
 | ------- |
