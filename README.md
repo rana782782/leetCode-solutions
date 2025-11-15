@@ -99,6 +99,7 @@ _Last updated: 15 Nov 2025, 07:35 AM IST_
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/rana782782/leeCode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1488-sort-integers-by-the-power-value](https://github.com/rana782782/leeCode-solutions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rana782782/leeCode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1777-determine-if-two-strings-are-close](https://github.com/rana782782/leeCode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Math
 |  |
 | ------- |
@@ -131,6 +132,7 @@ _Last updated: 15 Nov 2025, 07:35 AM IST_
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/rana782782/leeCode-solutions/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rana782782/leeCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rana782782/leeCode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/rana782782/leeCode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rana782782/leeCode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rana782782/leeCode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
@@ -154,6 +156,7 @@ _Last updated: 15 Nov 2025, 07:35 AM IST_
 | [1464-reduce-array-size-to-the-half](https://github.com/rana782782/leeCode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/rana782782/leeCode-solutions/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rana782782/leeCode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/rana782782/leeCode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rana782782/leeCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/rana782782/leeCode-solutions/tree/master/3863-power-grid-maintenance) |
@@ -253,4 +256,8 @@ _Last updated: 15 Nov 2025, 07:35 AM IST_
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/rana782782/leeCode-solutions/tree/master/2625-increment-submatrices-by-one) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/rana782782/leeCode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
