@@ -57,6 +57,7 @@ _Last updated: 22 Nov 2025, 07:33 AM IST_
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/rana782782/leeCode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/rana782782/leeCode-solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/rana782782/leeCode-solutions/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1670-design-front-middle-back-queue](https://github.com/rana782782/leeCode-solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rana782782/leeCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/rana782782/leeCode-solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rana782782/leeCode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -266,4 +267,20 @@ _Last updated: 22 Nov 2025, 07:33 AM IST_
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/rana782782/leeCode-solutions/tree/master/1668-maximum-repeating-substring) |
+## Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/rana782782/leeCode-solutions/tree/master/1670-design-front-middle-back-queue) |
+## Design
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/rana782782/leeCode-solutions/tree/master/1670-design-front-middle-back-queue) |
+## Queue
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/rana782782/leeCode-solutions/tree/master/1670-design-front-middle-back-queue) |
+## Data Stream
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/rana782782/leeCode-solutions/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
