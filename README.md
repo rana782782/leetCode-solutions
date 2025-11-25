@@ -105,6 +105,7 @@ _Last updated: 25 Nov 2025, 07:49 AM IST_
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/rana782782/leeCode-solutions/tree/master/0830-largest-triangle-area) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/rana782782/leeCode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1166-toss-strange-coins](https://github.com/rana782782/leeCode-solutions/tree/master/1166-toss-strange-coins) |
 | [1276-closest-divisors](https://github.com/rana782782/leeCode-solutions/tree/master/1276-closest-divisors) |
 | [1284-four-divisors](https://github.com/rana782782/leeCode-solutions/tree/master/1284-four-divisors) |
@@ -153,6 +154,7 @@ _Last updated: 25 Nov 2025, 07:49 AM IST_
 ## Hash Table
 |  |
 | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/rana782782/leeCode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rana782782/leeCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/rana782782/leeCode-solutions/tree/master/1436-get-watched-videos-by-your-friends) |
