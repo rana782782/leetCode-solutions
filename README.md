@@ -62,6 +62,7 @@ _Last updated: 26 Nov 2025, 07:46 AM IST_
 | [1704-special-positions-in-a-binary-matrix](https://github.com/rana782782/leeCode-solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rana782782/leeCode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rana782782/leeCode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rana782782/leeCode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/rana782782/leeCode-solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rana782782/leeCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -151,6 +152,7 @@ _Last updated: 26 Nov 2025, 07:46 AM IST_
 | [1668-maximum-repeating-substring](https://github.com/rana782782/leeCode-solutions/tree/master/1668-maximum-repeating-substring) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/rana782782/leeCode-solutions/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rana782782/leeCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rana782782/leeCode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +204,7 @@ _Last updated: 26 Nov 2025, 07:46 AM IST_
 | [1224-minimum-falling-path-sum-ii](https://github.com/rana782782/leeCode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/rana782782/leeCode-solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rana782782/leeCode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rana782782/leeCode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/rana782782/leeCode-solutions/tree/master/2625-increment-submatrices-by-one) |
 ## Simulation
 |  |
