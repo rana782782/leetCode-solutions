@@ -65,6 +65,7 @@ _Last updated: 28 Nov 2025, 07:38 AM IST_
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rana782782/leeCode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/rana782782/leeCode-solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
+| [3467-transform-array-by-parity](https://github.com/rana782782/leeCode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rana782782/leeCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/rana782782/leeCode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
@@ -102,6 +103,7 @@ _Last updated: 28 Nov 2025, 07:38 AM IST_
 | [1488-sort-integers-by-the-power-value](https://github.com/rana782782/leeCode-solutions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rana782782/leeCode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rana782782/leeCode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [3467-transform-array-by-parity](https://github.com/rana782782/leeCode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -268,6 +270,7 @@ _Last updated: 28 Nov 2025, 07:38 AM IST_
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/rana782782/leeCode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [3467-transform-array-by-parity](https://github.com/rana782782/leeCode-solutions/tree/master/3467-transform-array-by-parity) |
 ## String Matching
 |  |
 | ------- |
