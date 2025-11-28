@@ -41,6 +41,7 @@ _Last updated: 28 Nov 2025, 07:38 AM IST_
 | [0611-valid-triangle-number](https://github.com/rana782782/leeCode-solutions/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/rana782782/leeCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/rana782782/leeCode-solutions/tree/master/0830-largest-triangle-area) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/rana782782/leeCode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1166-toss-strange-coins](https://github.com/rana782782/leeCode-solutions/tree/master/1166-toss-strange-coins) |
 | [1222-remove-covered-intervals](https://github.com/rana782782/leeCode-solutions/tree/master/1222-remove-covered-intervals) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/rana782782/leeCode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -86,6 +87,7 @@ _Last updated: 28 Nov 2025, 07:38 AM IST_
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/rana782782/leeCode-solutions/tree/master/0611-valid-triangle-number) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/rana782782/leeCode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/rana782782/leeCode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rana782782/leeCode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rana782782/leeCode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
@@ -94,6 +96,7 @@ _Last updated: 28 Nov 2025, 07:38 AM IST_
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/rana782782/leeCode-solutions/tree/master/0611-valid-triangle-number) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/rana782782/leeCode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1222-remove-covered-intervals](https://github.com/rana782782/leeCode-solutions/tree/master/1222-remove-covered-intervals) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rana782782/leeCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -271,6 +274,7 @@ _Last updated: 28 Nov 2025, 07:38 AM IST_
 ## Counting
 |  |
 | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/rana782782/leeCode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rana782782/leeCode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [3467-transform-array-by-parity](https://github.com/rana782782/leeCode-solutions/tree/master/3467-transform-array-by-parity) |
 ## String Matching
