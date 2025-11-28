@@ -67,6 +67,7 @@ _Last updated: 28 Nov 2025, 07:38 AM IST_
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 | [3467-transform-array-by-parity](https://github.com/rana782782/leeCode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rana782782/leeCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/rana782782/leeCode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3863-power-grid-maintenance](https://github.com/rana782782/leeCode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
@@ -215,6 +216,7 @@ _Last updated: 28 Nov 2025, 07:38 AM IST_
 | [1657-find-the-winner-of-an-array-game](https://github.com/rana782782/leeCode-solutions/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rana782782/leeCode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/rana782782/leeCode-solutions/tree/master/3336-water-bottles-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/rana782782/leeCode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rana782782/leeCode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
@@ -291,4 +293,8 @@ _Last updated: 28 Nov 2025, 07:38 AM IST_
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/rana782782/leeCode-solutions/tree/master/1670-design-front-middle-back-queue) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/rana782782/leeCode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
