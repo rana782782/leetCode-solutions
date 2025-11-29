@@ -67,6 +67,7 @@ _Last updated: 29 Nov 2025, 07:37 AM IST_
 | [2625-increment-submatrices-by-one](https://github.com/rana782782/leeCode-solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 | [3467-transform-array-by-parity](https://github.com/rana782782/leeCode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rana782782/leeCode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rana782782/leeCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/rana782782/leeCode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3863-power-grid-maintenance](https://github.com/rana782782/leeCode-solutions/tree/master/3863-power-grid-maintenance) |
@@ -123,6 +124,7 @@ _Last updated: 29 Nov 2025, 07:37 AM IST_
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rana782782/leeCode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rana782782/leeCode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/rana782782/leeCode-solutions/tree/master/3336-water-bottles-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rana782782/leeCode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rana782782/leeCode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
 |  |
