@@ -94,6 +94,7 @@ _Last updated: 07 Dec 2025, 07:58 AM IST_
 | [1464-reduce-array-size-to-the-half](https://github.com/rana782782/leeCode-solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rana782782/leeCode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rana782782/leeCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/rana782782/leeCode-solutions/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +125,7 @@ _Last updated: 07 Dec 2025, 07:58 AM IST_
 | [1817-calculate-money-in-leetcode-bank](https://github.com/rana782782/leeCode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rana782782/leeCode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rana782782/leeCode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/rana782782/leeCode-solutions/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3336-water-bottles-ii](https://github.com/rana782782/leeCode-solutions/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rana782782/leeCode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rana782782/leeCode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
