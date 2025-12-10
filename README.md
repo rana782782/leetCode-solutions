@@ -41,6 +41,7 @@ _Last updated: 10 Dec 2025, 07:51 AM IST_
 | [0611-valid-triangle-number](https://github.com/rana782782/leeCode-solutions/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/rana782782/leeCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/rana782782/leeCode-solutions/tree/master/0830-largest-triangle-area) |
+| [0907-sum-of-subarray-minimums](https://github.com/rana782782/leeCode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/rana782782/leeCode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1166-toss-strange-coins](https://github.com/rana782782/leeCode-solutions/tree/master/1166-toss-strange-coins) |
 | [1222-remove-covered-intervals](https://github.com/rana782782/leeCode-solutions/tree/master/1222-remove-covered-intervals) |
@@ -156,6 +157,7 @@ _Last updated: 10 Dec 2025, 07:51 AM IST_
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/rana782782/leeCode-solutions/tree/master/0115-distinct-subsequences) |
+| [0907-sum-of-subarray-minimums](https://github.com/rana782782/leeCode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1166-toss-strange-coins](https://github.com/rana782782/leeCode-solutions/tree/master/1166-toss-strange-coins) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/rana782782/leeCode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/rana782782/leeCode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -311,4 +313,12 @@ _Last updated: 10 Dec 2025, 07:51 AM IST_
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/rana782782/leeCode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Stack
+|  |
+| ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/rana782782/leeCode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/rana782782/leeCode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
