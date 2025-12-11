@@ -70,6 +70,7 @@ _Last updated: 11 Dec 2025, 07:53 AM IST_
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rana782782/leeCode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/rana782782/leeCode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rana782782/leeCode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/rana782782/leeCode-solutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/rana782782/leeCode-solutions/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rana782782/leeCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/rana782782/leeCode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -113,6 +114,7 @@ _Last updated: 11 Dec 2025, 07:53 AM IST_
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rana782782/leeCode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rana782782/leeCode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [3467-transform-array-by-parity](https://github.com/rana782782/leeCode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3531-count-covered-buildings](https://github.com/rana782782/leeCode-solutions/tree/master/3531-count-covered-buildings) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +182,7 @@ _Last updated: 11 Dec 2025, 07:53 AM IST_
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rana782782/leeCode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rana782782/leeCode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
+| [3531-count-covered-buildings](https://github.com/rana782782/leeCode-solutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/rana782782/leeCode-solutions/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rana782782/leeCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/rana782782/leeCode-solutions/tree/master/3863-power-grid-maintenance) |
