@@ -38,6 +38,7 @@ _Last updated: 12 Dec 2025, 07:52 AM IST_
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/rana782782/leeCode-solutions/tree/master/0031-next-permutation) |
 | [0611-valid-triangle-number](https://github.com/rana782782/leeCode-solutions/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/rana782782/leeCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/rana782782/leeCode-solutions/tree/master/0830-largest-triangle-area) |
@@ -78,6 +79,7 @@ _Last updated: 12 Dec 2025, 07:52 AM IST_
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/rana782782/leeCode-solutions/tree/master/0031-next-permutation) |
 | [0611-valid-triangle-number](https://github.com/rana782782/leeCode-solutions/tree/master/0611-valid-triangle-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/rana782782/leeCode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Binary Search
