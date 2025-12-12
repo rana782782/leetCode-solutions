@@ -80,6 +80,7 @@ _Last updated: 12 Dec 2025, 07:52 AM IST_
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/rana782782/leeCode-solutions/tree/master/0031-next-permutation) |
+| [0556-next-greater-element-iii](https://github.com/rana782782/leeCode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/rana782782/leeCode-solutions/tree/master/0611-valid-triangle-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/rana782782/leeCode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Binary Search
@@ -120,6 +121,7 @@ _Last updated: 12 Dec 2025, 07:52 AM IST_
 ## Math
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/rana782782/leeCode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0830-largest-triangle-area](https://github.com/rana782782/leeCode-solutions/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rana782782/leeCode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1166-toss-strange-coins](https://github.com/rana782782/leeCode-solutions/tree/master/1166-toss-strange-coins) |
@@ -145,6 +147,7 @@ _Last updated: 12 Dec 2025, 07:52 AM IST_
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/rana782782/leeCode-solutions/tree/master/0115-distinct-subsequences) |
+| [0556-next-greater-element-iii](https://github.com/rana782782/leeCode-solutions/tree/master/0556-next-greater-element-iii) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rana782782/leeCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/rana782782/leeCode-solutions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
