@@ -132,6 +132,7 @@ _Last updated: 16 Dec 2025, 07:53 AM IST_
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rana782782/leeCode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1585-the-kth-factor-of-n](https://github.com/rana782782/leeCode-solutions/tree/master/1585-the-kth-factor-of-n) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/rana782782/leeCode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1860-incremental-memory-leak](https://github.com/rana782782/leeCode-solutions/tree/master/1860-incremental-memory-leak) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rana782782/leeCode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rana782782/leeCode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rana782782/leeCode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -238,6 +239,7 @@ _Last updated: 16 Dec 2025, 07:53 AM IST_
 | ------- |
 | [1449-print-words-vertically](https://github.com/rana782782/leeCode-solutions/tree/master/1449-print-words-vertically) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/rana782782/leeCode-solutions/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1860-incremental-memory-leak](https://github.com/rana782782/leeCode-solutions/tree/master/1860-incremental-memory-leak) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rana782782/leeCode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/rana782782/leeCode-solutions/tree/master/3336-water-bottles-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/rana782782/leeCode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
