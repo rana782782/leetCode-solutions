@@ -65,6 +65,7 @@ _Last updated: 30 Dec 2025, 07:54 AM IST_
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rana782782/leeCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/rana782782/leeCode-solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rana782782/leeCode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1817-finding-the-users-active-minutes](https://github.com/rana782782/leeCode-solutions/tree/master/1817-finding-the-users-active-minutes) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rana782782/leeCode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rana782782/leeCode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rana782782/leeCode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -193,6 +194,7 @@ _Last updated: 30 Dec 2025, 07:54 AM IST_
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/rana782782/leeCode-solutions/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rana782782/leeCode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rana782782/leeCode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [1817-finding-the-users-active-minutes](https://github.com/rana782782/leeCode-solutions/tree/master/1817-finding-the-users-active-minutes) |
 | [2751-sliding-subarray-beauty](https://github.com/rana782782/leeCode-solutions/tree/master/2751-sliding-subarray-beauty) |
 | [3531-count-covered-buildings](https://github.com/rana782782/leeCode-solutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/rana782782/leeCode-solutions/tree/master/3583-count-special-triplets) |
