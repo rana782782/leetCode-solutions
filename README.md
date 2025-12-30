@@ -42,6 +42,7 @@ _Last updated: 30 Dec 2025, 07:54 AM IST_
 | [0611-valid-triangle-number](https://github.com/rana782782/leeCode-solutions/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/rana782782/leeCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/rana782782/leeCode-solutions/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/rana782782/leeCode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0907-sum-of-subarray-minimums](https://github.com/rana782782/leeCode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/rana782782/leeCode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1166-toss-strange-coins](https://github.com/rana782782/leeCode-solutions/tree/master/1166-toss-strange-coins) |
@@ -124,6 +125,7 @@ _Last updated: 30 Dec 2025, 07:54 AM IST_
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/rana782782/leeCode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0830-largest-triangle-area](https://github.com/rana782782/leeCode-solutions/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/rana782782/leeCode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rana782782/leeCode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1166-toss-strange-coins](https://github.com/rana782782/leeCode-solutions/tree/master/1166-toss-strange-coins) |
 | [1276-closest-divisors](https://github.com/rana782782/leeCode-solutions/tree/master/1276-closest-divisors) |
@@ -182,6 +184,7 @@ _Last updated: 30 Dec 2025, 07:54 AM IST_
 ## Hash Table
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/rana782782/leeCode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rana782782/leeCode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rana782782/leeCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -229,6 +232,7 @@ _Last updated: 30 Dec 2025, 07:54 AM IST_
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/rana782782/leeCode-solutions/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/rana782782/leeCode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/rana782782/leeCode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/rana782782/leeCode-solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rana782782/leeCode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
