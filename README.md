@@ -65,6 +65,7 @@ _Last updated: 30 Dec 2025, 07:54 AM IST_
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rana782782/leeCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/rana782782/leeCode-solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rana782782/leeCode-solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1816-truncate-sentence](https://github.com/rana782782/leeCode-solutions/tree/master/1816-truncate-sentence) |
 | [1817-finding-the-users-active-minutes](https://github.com/rana782782/leeCode-solutions/tree/master/1817-finding-the-users-active-minutes) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rana782782/leeCode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rana782782/leeCode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -164,6 +165,7 @@ _Last updated: 30 Dec 2025, 07:54 AM IST_
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rana782782/leeCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rana782782/leeCode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rana782782/leeCode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [1816-truncate-sentence](https://github.com/rana782782/leeCode-solutions/tree/master/1816-truncate-sentence) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rana782782/leeCode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rana782782/leeCode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
