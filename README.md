@@ -153,6 +153,7 @@ _Last updated: 31 Dec 2025, 07:54 AM IST_
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/rana782782/leeCode-solutions/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/rana782782/leeCode-solutions/tree/master/0115-distinct-subsequences) |
 | [0556-next-greater-element-iii](https://github.com/rana782782/leeCode-solutions/tree/master/0556-next-greater-element-iii) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/rana782782/leeCode-solutions/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
