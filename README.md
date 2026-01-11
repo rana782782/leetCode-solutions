@@ -21,11 +21,11 @@
 **User:** `rana_782`
 
 - ✅ **Solved:** 1161 (Easy 424 · Med 650 · Hard 87)
-- 🏆 **Global Rank:** 15674
+- 🏆 **Global Rank:** 15685
 - 📈 **Contest Rating:** 1716.26  ·  **Contests:** 9
 - 🎖️ **Badges:** Submission Badge, Annual Badge, Annual Badge, Annual Badge, Annual Badge
 
-_Last updated: 10 Jan 2026, 07:52 AM IST_
+_Last updated: 11 Jan 2026, 08:08 AM IST_
 <!--LEETCODE_STATS_END-->
 
 ---
